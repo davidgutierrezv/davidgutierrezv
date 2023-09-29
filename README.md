@@ -1,6 +1,6 @@
 ![Ingeniero Civil Industrial especializado en el desarrollo y gestión de proyectos informáticos. Con un enfoque analítico, me apasiona la optimización de procesos y la implementación de soluciones basadas en datos. Mi compromiso con las mejores prácticas de desarrollo y el liderazgo eficaz me ha permitido contribuir de manera significativa al crecimiento y la innovación en las organizaciones donde me he desempeñado. ](https://github.com/davidgutierrezv/davidgutierrezv/blob/main/banner3.png)
 
-### David Gutiérrez Vera
+### David Gutiérrez
 
 ___
 
