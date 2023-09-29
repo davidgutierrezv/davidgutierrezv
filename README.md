@@ -1,13 +1,21 @@
-### Hola 👋, David Gutiérrez Vera
-#### Ingeniero Civil Industrial especializado en el desarrollo y gestión de proyectos informáticos. Con un enfoque analítico, me apasiona la optimización de procesos y la implementación de soluciones basadas en datos. Mi compromiso con las mejores prácticas de desarrollo y el liderazgo eficaz me ha permitido contribuir de manera significativa al crecimiento y la innovación en las organizaciones donde me he desempeñado. 
 ![Ingeniero Civil Industrial especializado en el desarrollo y gestión de proyectos informáticos. Con un enfoque analítico, me apasiona la optimización de procesos y la implementación de soluciones basadas en datos. Mi compromiso con las mejores prácticas de desarrollo y el liderazgo eficaz me ha permitido contribuir de manera significativa al crecimiento y la innovación en las organizaciones donde me he desempeñado. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### David Gutiérrez Vera
 
-Habilidades: Python, C#, C++, Dart, JavaScript, TypeScript, Php
+---
 
-- 🔭 Estoy trabajando en this page. 
+Ingeniero Civil Industrial especializado en el desarrollo y gestión de proyectos informáticos. Con un enfoque analítico, me apasiona la optimización de procesos y la implementación de soluciones basadas en datos. Mi compromiso con las mejores prácticas de desarrollo y el liderazgo eficaz me ha permitido contribuir de manera significativa al crecimiento y la innovación en las organizaciones donde me he desempeñado. 
 
+---
+
+Habilidades y Experiencia: 
+- Python
+- C#
+- C++
+- Dart
+- JavaScript
+- TypeScript
+- Php
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davidgutierrezv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidgutierrezvera/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mermeladademora/)  
 
